@@ -10,4 +10,4 @@ Given the size of the executed code file and to make it downloadable on github, 
 [![Open In nbviewer](https://nbviewer.jupyter.org/static/img/nav_logo.svg?v=479cefe8d932fb14a67b93911b97d70f)]
 
 
-[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/mnassrib/customer-churn-prediction-with-python/blob/master/customer_churn_prediction_telecom_churn_dataset.ipynb)
+[![Open In nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/mnassrib/customer-churn-prediction-with-python/blob/master/customer_churn_prediction_telecom_churn_dataset.ipynb)
