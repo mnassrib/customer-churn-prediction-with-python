@@ -8,3 +8,6 @@ This notebook is running on google colab: [![Open In Colab](https://colab.resear
 Given the size of the executed code file and to make it downloadable on github, I deliberately didn't run all of the code. It seems that the interactive figures cannot be viewed directly on github. It is better to look at the file on nbviewer available on this [link] (https://nbviewer.jupyter.org/github/mnassrib/customer-churn-prediction-with-python/blob/master/customer_churn_prediction_telecom_churn_dataset.ipynb)
 
 [![Open In nbviewer](https://nbviewer.jupyter.org/static/img/nav_logo.svg?v=479cefe8d932fb14a67b93911b97d70f)]
+
+
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/mnassrib/customer-churn-prediction-with-python/blob/master/customer_churn_prediction_telecom_churn_dataset.ipynb)
