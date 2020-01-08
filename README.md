@@ -5,6 +5,4 @@ This repository exposes some machine learning classifiers applied on data from K
 
 This notebook is running on google colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mnassrib/customer-churn-prediction-with-python/blob/master/customer_churn_prediction_telecom_churn_dataset.ipynb)
 
-Given the size of the executed code file and to make it downloadable on github, I deliberately didn't run all of the code. It seems that the interactive figures cannot be viewed directly on github. It is better to look at the file on nbviewer available on this [![link] (https://nbviewer.jupyter.org/github/mnassrib/customer-churn-prediction-with-python/blob/master/customer_churn_prediction_telecom_churn_dataset.ipynb)]
-
-[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/mnassrib/customer-churn-prediction-with-python/blob/master/customer_churn_prediction_telecom_churn_dataset.ipynb)
+Given the size of the executed code file and to make it downloadable on github, I deliberately didn't run all of the code. It seems that the interactive figures cannot be viewed directly on github. It is better to look at the ipynb file on nbviewer: [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/mnassrib/customer-churn-prediction-with-python/blob/master/customer_churn_prediction_telecom_churn_dataset.ipynb)
